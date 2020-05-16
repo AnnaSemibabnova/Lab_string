@@ -30,6 +30,11 @@ int main()
   cout << str4.Find("S") << endl;
   cout << str4.FirstFind("U") << endl;
   str4.Getline(" ");
-  
+  cout << str4.Dubl(3) << endl;
+  cout << str4.AllFind("Pe") << endl;
+
   return 0;
+
 }
+  
+ 

@@ -28,4 +28,6 @@ public:
   char* Find(const char* tmp);
   char* FirstFind(const char* ch);
   String* Getline(const char* ch);
+  String Dubl(int k);
+  String AllFind(const char* ch);
 };
